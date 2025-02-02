@@ -50,3 +50,20 @@ Open the Notebook and click Run all to execute it.
 ## Additional Resources 
 - See [RESOURCES.md](docs/RESOURCES.md)
 
+## Checklist
+
+- [ Y ] Notebook has exactly one Markdown title (with a single hash).
+- [ Y ] Notebook has useful Markdown header cell with author and purpose, and optionally, the date.
+- [ Y ] Notebook uses numbered second level Markdown headings for organization. 
+- [ Y ] Notebook has numbered sections with useful content for:
+  - [ Y ] 1. Imports
+  - [ Y ] 2. Load Data
+  - [ Y ] 3. Initial Data Inspection
+  - [ Y ] 4. Initial Descriptive Statistics
+  - [ Y ] 5. Initial Data Distribution for Numerical Columns
+  - [ Y ] 6. Initial Data Transformation and Feature Engineering
+  - [ Y ] 7. Initial Visualizations
+  - [ Y ] 8. Initial Insights
+- [ Y ] Notebook includes commentary as we go that tells a unique data story. 
+- [ Y ] Notebook includes unique insights into the dataset. 
+- [ Y ] Code and visuals are working, notebook is fully executed and on display in GitHub. 
